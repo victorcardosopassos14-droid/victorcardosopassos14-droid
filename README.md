@@ -5,6 +5,7 @@
 Desde pequeno tenho interesse por tecnologia e criação digital, buscando aprender novas áreas e desenvolver minhas habilidades cada vez mais. Atualmente estou estudando programação e também aprendendo mais sobre CGI, efeitos visuais, animações e projetos criativos.
 
 🚀 Áreas de Interesse
+
 💻 Programação
 🎬 CGI
 ✨ VFX
@@ -12,6 +13,7 @@ Desde pequeno tenho interesse por tecnologia e criação digital, buscando apren
 🌐 Desenvolvimento web
 
 📚 Atualmente Aprendendo
+
 JavaScript
 HTML e CSS
 Blender
