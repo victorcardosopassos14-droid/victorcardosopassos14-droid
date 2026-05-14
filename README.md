@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá! Eu sou Victor Cardoso
 
-<!--
-**victorcardosopassos14-droid/victorcardosopassos14-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Tenho 14 anos e estou iniciando minha jornada na área de tecnologia, explorando programação, CGI e VFX através de projetos, estudos e criatividade.
 
-Here are some ideas to get you started:
+🚀 Áreas de Interesse
+💻 Programação
+🎬 CGI
+✨ VFX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente Aprendendo
+JavaScript
+HTML e CSS
+Blender
+Houdini
+🎯 Objetivo
+Transformar ideias em projetos criativos e evoluir constantemente minhas habilidades na tecnologia e nos efeitos visuais.
+
+⚡ Curiosidade
+Sempre buscando aprender algo novo e criar projetos cada vez melhores.
